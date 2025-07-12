@@ -1,4 +1,4 @@
-exit
+return
 # Install bluetooth controls
 yay -S --noconfirm --needed blueberry
 

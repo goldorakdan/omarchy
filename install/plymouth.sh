@@ -1,4 +1,4 @@
-exit
+return
 #!/usr/bin/env bash
 
 if ! command -v plymouth &>/dev/null; then

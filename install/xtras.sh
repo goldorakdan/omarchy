@@ -1,4 +1,4 @@
-exit
+return
 if [ -z "$OMARCHY_BARE" ]; then
   yay -S --noconfirm --needed \
     gnome-calculator \
