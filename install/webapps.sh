@@ -1,3 +1,4 @@
+exit
 if [ -z "$OMARCHY_BARE" ]; then
   source ~/.local/share/omarchy/default/bash/functions
   web2app "HEY" https://app.hey.com https://www.hey.com/assets/images/general/hey.png
